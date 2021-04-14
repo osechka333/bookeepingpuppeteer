@@ -1,0 +1,7 @@
+<testsuite name="Mocha Tests" tests="5" failures="0" errors="0" skipped="1" timestamp="Wed, 14 Apr 2021 12:59:43 GMT" time="34.392">
+<testcase classname="Check bookkeeping guru home page for the unauthorized user" name="Open Home page and check the title" time="1.578"/>
+<testcase classname="Check bookkeeping guru home page for the unauthorized user" name="Open About section and check redirect" time="2.407"/>
+<testcase classname="Check bookkeeping guru home page for the unauthorized user" name="Check Yelp review redirect" time="12.483"/>
+<testcase classname="Check bookkeeping guru home page for the unauthorized user" name="Check Knowledge Base redirect" time="12.147"/>
+<testcase classname="Check bookkeeping guru home page for the unauthorized user" name="Open donation section and check redirect" time="0"><skipped/></testcase>
+</testsuite>
